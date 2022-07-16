@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.ggle {
+  border-radius: 26px;
+
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  width: 100%;
+  height: 7vh;
+}
+.login {
+  width: 100%;
+  height: 7vh;
+  border-radius: 26px;
+  background-color: rgba(81, 56, 238, 255);
+}
